@@ -1,0 +1,19 @@
+{
+    "name": "ebaocd/router",
+    "description": "Url Router",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XiuLuo",
+            "email": "5192412@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "eBaocd\\": "src/"
+        }
+    }
+}
